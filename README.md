@@ -20,4 +20,4 @@ Sistema de gestión comercial desarrollado en **Visual Basic** con **Windows For
 - Visual Studio
 
 ## Capturas de pantalla
-(Aquí puedes agregar las imágenes después)
+
